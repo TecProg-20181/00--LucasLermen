@@ -15,7 +15,7 @@ Alocação dinâmica de memória; Análise de complexidade de algoritmos; Estrut
 - Desenvolvimento Avançado de Software. 
 
 ## Horário de aulas
-Aulas: quartas e sextas, das 10:00 às 11:50 hrs.
+Aulas: quartas e sextas, das 10:00 às 11:50 horas.
 Atendimento: quarta e sexta das 08:00 às 10:00, sala 35.
 Email: brunamoreira@unb.br
 
